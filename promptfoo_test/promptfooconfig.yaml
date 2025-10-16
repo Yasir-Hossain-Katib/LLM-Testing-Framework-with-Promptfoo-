@@ -1,0 +1,39 @@
+prompts:
+     - "Explain {{topic}} in simple terms like a {{age}} year old beginner"
+    
+
+providers:
+  - "ollama:gemma:2b":
+      id: local-gemma
+      label: "Gemma 2B (Local)"
+      config:
+        baseUrl: "http://localhost:11434"
+
+
+  - "ollama:mistral:7b-instruct":
+      id: local-mistral
+      label: "Mistral 7B Instruct (Local)"
+      config:
+        baseUrl: "http://localhost:11434"
+
+
+
+tests:
+  - vars: 
+        topic: "sqa"
+        age: "5"
+
+  - vars: 
+        topic: "LLM"
+        age: "expert"
+
+
+   
+  
+    
+
+
+   
+  
+
+
