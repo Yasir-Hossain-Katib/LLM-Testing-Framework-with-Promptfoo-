@@ -28,12 +28,26 @@ All tests are performed **locally** using [Ollama](https://ollama.ai/), ensuring
 ---
 ## How to Run the Evaluation
 
-Install Ollama
+Install Ollama:
  - Download from Ollama.ai and run the models
 
 In local terminal:
 ```
-ollama run gemma:2b
-ollama run mistral:7b-instruct
+ollama pull gemma:2b
+ollama pull mistral:7b-instruct
 ```
 
+Install Promptfoo:
+```
+npm install -g promptfoo
+```
+
+Run the Evaluation
+```
+promptfoo eval -c promptfooconfig.yaml
+```
+
+View Results in Web UI
+```
+promptfoo view
+```
