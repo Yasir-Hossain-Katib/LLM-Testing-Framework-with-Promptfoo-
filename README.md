@@ -17,7 +17,7 @@ All tests are performed **locally** using [Ollama](https://ollama.ai/), ensuring
 
 ---
 
-## 🧩 Tools & Technologies
+## Tools & Technologies
 
  - **Promptfoo** | Framework for LLM testing and comparison |
  - **Ollama** | Run LLMs locally (offline) |
@@ -26,5 +26,14 @@ All tests are performed **locally** using [Ollama](https://ollama.ai/), ensuring
  - **YAML Configuration** | Defines prompts, models, and tests |
 
 ---
+## How to Run the Evaluation
 
+Install Ollama
+ - Download from Ollama.ai and run the models
+
+In local terminal:
+```
+ollama run gemma:2b
+ollama run mistral:7b-instruct
+```
 
