@@ -58,5 +58,5 @@ now
 
 ## Both Models have different outputs when they are asked to explain LLM
 
-![Promptfoo Result](./assests/Screenshot from 2025-10-16 18-20-49.png)
+![Promptfoo Result](./assests/)
 
