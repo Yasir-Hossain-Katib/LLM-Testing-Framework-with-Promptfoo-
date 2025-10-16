@@ -51,3 +51,11 @@ View Results in Web UI
 ```
 promptfoo view
 ```
+
+2025-10-16 18-16-29.mkv
+Add files via upload
+now
+
+## Both Models have different outputs when they are asked to explain LLM
+
+![Promptfoo Result](./assets/Screenshot from 2025-10-16 18-13-40.png/)
