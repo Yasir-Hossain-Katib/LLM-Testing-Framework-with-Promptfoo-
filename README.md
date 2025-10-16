@@ -19,11 +19,11 @@ All tests are performed **locally** using [Ollama](https://ollama.ai/), ensuring
 
 ## 🧩 Tools & Technologies
 
-**Promptfoo** | Framework for LLM testing and comparison |
-**Ollama** | Run LLMs locally (offline) |
-**Gemma 2B (Google)** | Local model for reasoning and text generation |
-**Mistral 7B (Mistral AI)** | Local model with advanced reasoning ability |
-**YAML Configuration** | Defines prompts, models, and tests |
+ **Promptfoo** | Framework for LLM testing and comparison |
+ **Ollama** | Run LLMs locally (offline) |
+ **Gemma 2B (Google)** | Local model for reasoning and text generation |
+ **Mistral 7B (Mistral AI)** | Local model with advanced reasoning ability |
+ **YAML Configuration** | Defines prompts, models, and tests |
 
 ---
 
