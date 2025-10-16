@@ -57,7 +57,8 @@ Add files via upload
 now
 
 ## Both Models have different outputs when they are asked to explain LLM
-![](./assets/Screenshot%20from%202025-10-16%2018-20-49.png)
+![./assets/Screenshot%20from%202025-10-16%2018-20-49.png]
+
 
 ## Promptfoo Generated Automated Prompt Evaluation
 ![Promptfoo Result](./assets/2025-10-16%18-16-29.mkv)
